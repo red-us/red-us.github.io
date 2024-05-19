@@ -6,13 +6,13 @@ permalink: /listas
 
 Las listas electorales están organizadas para el PDI laboral y el PDI funcionario.
 
-# Listas electroales - PDI Laboral
+# Listas electorales - PDI Laboral
 
 
 ![listas_laboral]({{ site.github.url }}/assets/img/listas_laboral.png)
 
 
-# Listas electroales - PDI Funcionario
+# Listas electorales - PDI Funcionario
 
 
 ![listas_funcionario]({{ site.github.url }}/assets/img/listas_funcionario.png)
